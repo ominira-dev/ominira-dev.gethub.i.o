@@ -1,1 +1,1 @@
-# ominira-dev.gethub.i.o
+# ominira.gethub.i.o
